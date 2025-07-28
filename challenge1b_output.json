@@ -1,0 +1,82 @@
+{
+    "challenge_info": {
+        "challenge_id": "round_1b_001",
+        "test_case_name": "menu_planning",
+        "description": "Dinner menu planning"
+    },
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas",
+            "Dinner Ideas - Mains_1",
+            "Dinner Ideas - Mains_2",
+            "Dinner Ideas - Mains_3",
+            "Dinner Ideas - Sides_1",
+            "Dinner Ideas - Sides_2",
+            "Dinner Ideas - Sides_3",
+            "Dinner Ideas - Sides_4",
+            "Lunch Ideas"
+        ],
+        "persona": "Food Contractor",
+        "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+        "processing_timestamp": "2025-07-26 02:49:09"
+    },
+    "extracted_sections": [
+        {
+            "document": "Lunch Ideas",
+            "page_number": 1,
+            "section_title": "Introduction",
+            "importance_rank": 1
+        },
+        {
+            "document": "Dinner Ideas - Mains_3",
+            "page_number": 1,
+            "section_title": "Introduction",
+            "importance_rank": 2
+        },
+        {
+            "document": "Dinner Ideas - Sides_4",
+            "page_number": 1,
+            "section_title": "Introduction",
+            "importance_rank": 3
+        },
+        {
+            "document": "Dinner Ideas - Mains_1",
+            "page_number": 1,
+            "section_title": "Introduction",
+            "importance_rank": 4
+        },
+        {
+            "document": "Dinner Ideas - Mains_2",
+            "page_number": 1,
+            "section_title": "Introduction",
+            "importance_rank": 5
+        }
+    ],
+    "sub_section_analysis": [
+        {
+            "document": "Lunch Ideas",
+            "refined_text": "Black Bean and Corn Salad   Ingredients:   • 1 can black beans, drained and rinsed  • 1 cup corn kernels (fresh or canned)   • 1/2 cup cherry tomatoes, halved • 1/4 cup red onion, finely chopped   • 1/4 cup cilantro, chopped   • 2 tablespoons olive oil   • 1 tablespoon lime juice   • Salt and pepper to taste   Instructions:   • In a large bowl, combine the black beans, corn, tomatoes, red onion, and cilantro. Shrimp and Avocado Salad   Ingredients:   • 1 cup cooked shrimp, peeled and deveined   • 1/2 avocado, diced   • 1/4 cup cherry tomatoes, halved   • 1/4 cup red onion, finely chopped   • 2 tablespoons olive oil   • 1 tablespoon lemon juice   • Salt and pepper to taste   Instructions:   • In a bowl, combine the shrimp, avocado, tomatoes, and r ed onion. Chicken and Avocado Salad   Ingredients: • 1 cup cooked chicken breast, diced   • 1/2 avocado, diced   • 1/4 cup cherry tomatoes, halved   • 1/4 cup red onion, finely chopped   • 2 tablespoons olive oil   • 1 tablespoon lemon juice   • Salt and pepper to taste   Instructions:   • In a bowl, combine the chicken, avocado, tomatoes, and red onion.",
+            "page_number": 1
+        },
+        {
+            "document": "Dinner Ideas - Mains_3",
+            "refined_text": "Chili Con Carne   Ingredients:   • 1 pound ground beef   • 1 small onion, diced   • 2 cloves garlic, minced   • 1 can (15 ounces) kidney beans, drained   • 1 can (14.5 ounces) diced tomatoes   • 1/4 cup tomato paste   • 1 cup beef broth   • 1 tablespoon chili powder   • 1 teaspoon cumin   • 1 teaspoon paprika   • Salt and pepper to taste   • Shredded cheese and sour cream for garnish   Instru ctions:   • In a large pot, cook ground beef with diced onion and garlic over medium heat until  browned. Butter Chicken   Ingredients:   • 1 pound boneless chicken thighs, cubed   • 1 cup plain yogurt   • 1 tablespoon lemon juice   • 2 cloves garlic, minced   • 1 teaspoon grated ginger   • 1 teaspoon garam masala   • 1 teaspoon turmeric   • 1 teaspoon cumin   • 1 can (14.5 ounces) tomato puree   • 1/2 cup heavy cream   • 2 tablespoons butter   • Salt and pepper to taste   • Chopped cilantro for garnish   • Cooked rice or naan for serving   Instructions: • In a bowl, mix yogurt, lemon juice, garlic, ginger, garam masala, turmeric, and cumin. Mushroom Risotto   Ingredients:   • 1 cup Arborio rice   • 4 cups chicken or vegetable broth   • 1 small onion, diced   • 2 cloves garlic, minced   • 1 cup mushrooms, sliced   • 1/2 cup white wine   • 1/2 cup grated Parmesan cheese   • 2 tablespoons butter   • 2 tablespoons olive oil   • Salt and pepper to taste   • Chopped parsley for garnish   Instructions:   • Heat broth in a pot and keep warm.",
+            "page_number": 1
+        },
+        {
+            "document": "Dinner Ideas - Sides_4",
+            "refined_text": "Rfissa   • Ingredients :  o 1 pound chicken   o 1 small on ion  o 2 cloves garlic   o 1 teaspoon cumin   o 1 teaspoon turmeric   o 1 teaspoon ginger o 1 teaspoon salt   o 1/4 cup olive oil   o 4 cups chicken broth   o 1/4 cup lentils   o 1/4 cup cilantro   o 4 pieces flatbread   • Instructions :  o Sauté chicken, diced onion, and minced garlic in olive oil until browned. Samosa   • Ingredients :  o 2 cups flour   o 1/4 cup oil   o 1/2 cup water   o 2 potatoes   o 1/2 cup peas   o 1 small onion   o 1 teaspoon cumin   o 1 teaspoon coriander o 1 teaspoon garam masala   o 1 teaspoon salt   o Oil for frying   • Instructions :  o Mix flour, oil, and water to form a dough, then let rest. Pulao   • Ingredients :  o 1 cup basmati rice   o 2 cups water   o 1 small onion o 1 carrot   o 1/2 cup peas   o 1 teaspoon cumin   o 1 teaspoon coriander   o 1 teaspoon turmeric   o 1 teaspoon garam masala   o 1 teaspoon salt   o 2 tablespoons oil   • Instructions :  o Rinse rice and soak in water for 30 minutes.",
+            "page_number": 1
+        },
+        {
+            "document": "Dinner Ideas - Mains_1",
+            "refined_text": "Jambalaya   Ingredients:   • 1 pound chicken breast, cubed   • 1/2 pound sausage, sliced   • 1/2 pound shrimp, peeled and deveined   • 1 small onion, diced   • 2 cloves garlic, minced   • 1 bell pepper, diced   • 1 can (14.5 ounces) diced tomatoes   • 1 cup chicken broth   • 1 cup long -grain rice  • 1 teaspoon paprika   • 1 teaspoon thyme   • 1 teaspoon cayenne pepper   • 2 tablespoons olive oil   • Salt and pepper to taste   Instructions:   • In a large pot, heat olive oil over medium heat. Chicken Tikka Masala   Ingredients:   • 1 pound chicken breast, cubed   • 1 cup yogurt   • 2 tablespoons lemon juice   • 2 cloves garlic, minced   • 1 teaspoon grated ginger   • 1 teaspoon cumin   • 1 teaspoon coriander   • 1 teaspoon turmeric   • 1 teaspoon paprika   • 1 teaspoon garam masala   • 1/2 cup heavy cream   • 1 can (14.5 ounces) diced tomatoes   • 1 small onion, diced   • 2 tablespoons vegetable oil   • Salt and pepper to taste   • Chopped cilantro for garnish   Instructions:   • In a bowl, mix yogurt, lemon juice, minced garlic, grated ginger, cumin, coriander,  turmeric, paprika, and garam masala. Paella   Ingredients:   • 1/2 pound chicken breast, cubed   • 1/2 pound  shrimp, peeled and deveined   • 1/2 pound mussels, cleaned   • 1 small onion, diced   • 2 cloves garlic, minced   • 1 bell pepper, diced   • 1 cup short -grain rice   • 2 cups chicken broth   • 1/2 cup white wine   • 1/4 cup olive oil   • 1 teaspoon saffron   • 1 teaspoon paprika   • Salt and pepper  to taste   • Lemon wedges for garnish   Instructions:   • In a large skillet, heat olive oil over medium heat.",
+            "page_number": 1
+        },
+        {
+            "document": "Dinner Ideas - Mains_2",
+            "refined_text": "Stuffed Bell Peppers   Ingredients:   • 4 bell peppers, tops cut off and seeds removed   • 1 pound ground beef   • 1 small onion, diced   • 2 cloves garlic, minced   • 1 cup cooked rice   • 1 can (14.5 ounces) diced tomatoes • 1 cup shredded cheese   • 1 teaspoon oregano   • 1 teaspoon basil   • 2 tablespoons olive oil   • Salt and pepper to taste         Sweet and Sour Pork   Ingredients:   • 1 pound pork tenderloin, cubed   • 1 bell pepper, diced   • 1 small onion, diced   • 1/2 cup pineapple chunks   • 1/4 cup ketchup   • 1/4 cup rice vinegar   • 1/4 cup soy sauce   • 1/4 cup brown sugar   • 2 tablespoons cornstarch   • 2 tablespoons vegetable oil   • Cooked rice for serving   Instructions:   • In a bowl, toss pork cubes with cornstarch. Shrimp and Grits   Ingredients:   • 1 pound  shrimp, peeled and deveined   • 1 cup grits   • 4 cups water   • 1/2 cup cheddar cheese, shredded   • 1/4 cup butter   • 1 small onion, diced   • 2 cloves garlic, minced • 1/4 cup bacon, chopped   • 1/4 cup green onions, sliced   • Salt and pepper to taste   Instructions:   • In a pot, bring water to a boil and stir in grits. Turkey Meatballs   Ingredients:   • 1 pound ground turkey   • 1 small onion, diced   • 2 cloves garlic, minced   • 1/4 cup breadcrumbs   • 1 egg, beaten • 1/4 cup grated Parmesan cheese   • 1 teaspoon oregano   • 1 teaspoon basil   • Salt and pepper to taste   • 2 tablespoons olive oil   • 1 jar (24 ounces) marinara sauce   Instructions:   • In a bowl, mix ground turkey, diced onion, minced garlic, breadcrumbs, beaten egg,  grated Parmesan cheese, oregano, basil, salt, and pepper.",
+            "page_number": 1
+        }
+    ]
+}

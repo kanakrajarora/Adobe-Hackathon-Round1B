@@ -1,0 +1,7 @@
+PyPDF2==3.0.1
+nltk==3.8.1
+sentence-transformers==3.4.1
+scikit-learn==1.5.2
+numpy==1.26.4
+torch==2.7.0
+huggingface_hub==0.27.1
