@@ -28,7 +28,7 @@ Round1B/
 
 ## Getting Started
 
-This project is containerized with Docker. The app reads data from the `/input` directory and generates structured JSON output in the `/output` directory.
+This project is containerized with Docker. The app reads data from the `/input` directory and generates structured JSON output in the `/output` directory
 
 ###  Prerequisites
 
