@@ -111,4 +111,3 @@ Ensure this folder exists and is empty before running the container.
 
 This project is developed solely for the Adobe Hackathon and is not intended for public distribution.
 
-```
